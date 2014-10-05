@@ -1,11 +1,11 @@
 Summary:	Utility to control ethernet cards
 Name:		ethtool
-Version:	3.14
+Version:	3.16
 Release:	1
 License:	GPL
 Group:		Networking/Admin
 Source0:	http://www.kernel.org/pub/software/network/ethtool/%{name}-%{version}.tar.xz
-# Source0-md5:	d46b809ddd672b51d7e23787ae9122e0
+# Source0-md5:	7eee202accb86104adc8463a36a1a468
 URL:		http://www.kernel.org/pub/software/network/ethtool/
 BuildRequires:	autoconf
 BuildRequires:	automake
