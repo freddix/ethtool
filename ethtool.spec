@@ -1,6 +1,6 @@
 Summary:	Utility to control ethernet cards
 Name:		ethtool
-Version:	3.16
+Version:	3.18
 Release:	1
 License:	GPL
 Group:		Networking/Admin
